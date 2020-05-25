@@ -1,0 +1,18 @@
+{
+  "name": "foodtasker02",
+  "main": "./lib/foodtasker02",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "foodtasker02:toggle"
+  },
+  "repository": "https://github.com/atom/foodtasker02",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

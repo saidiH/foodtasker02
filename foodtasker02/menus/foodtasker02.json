@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle foodtasker02",
+        "command": "foodtasker02:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "foodtasker02",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "foodtasker02:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
